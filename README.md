@@ -7,19 +7,29 @@ This project leverages advanced AI and decentralized technologies to assist with
 Tech Stack 💻🔧
 
 Database: PostgreSQL 🗃️
+
 NLP Processing and Comparison Analysis: Python 🐍
+
 Frontend: Streamlit (HTML, CSS) 🌐
+
 Decentralized Autonomous Agents: Fetch.ai 🌍🤖
+
 Overview 🌟
+
 This application uses Fetch.ai's decentralized autonomous agents to automate the comparison of building codes between different jurisdictions (e.g., San Francisco, Oakland, San Jose). By analyzing the similarities and differences between building codes, the system provides valuable insights to help stakeholders in the affordable housing sector make more informed decisions, streamline compliance, and promote collaboration across jurisdictions.
 
 The Fetch.ai agent utilizes Natural Language Processing (NLP) to:
 
 Compare building code documents 📜➡️📜
+
 Extract technical terms 🏗️🔍
+
 Calculate similarity scores 🔢
+
 Identify common terms 💬
+
 Fetch.ai Agent for Building Code Comparison 🧠🤝
+
 How it Works:
 The Fetch.ai agent plays a critical role in the backend of the application. Here's how it contributes to the project:
 
