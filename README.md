@@ -1,6 +1,9 @@
 Hack for Social Impact - Bay Area Affordable Housing Development 🏙️🏡
+
 Fetch Compare Build
+
 Powered by Optimistic AI Philosophers 🤖✨
+
 
 This project leverages advanced AI and decentralized technologies to assist with comparing building codes across jurisdictions in the Bay Area. The goal is to support affordable housing development by simplifying the process of analyzing and aligning building regulations.
 
