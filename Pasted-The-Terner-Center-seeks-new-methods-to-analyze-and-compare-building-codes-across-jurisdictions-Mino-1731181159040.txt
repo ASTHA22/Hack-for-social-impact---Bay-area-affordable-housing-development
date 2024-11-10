@@ -1,0 +1,28 @@
+The Terner Center seeks new methods to analyze and compare building codes across jurisdictions. Minor variations in building codes between adjacent areas create significant complexity for builders, driving up construction costs and slowing housing development. Participants are invited to develop tools that can
+systematically identify and analyze these differences, providing a tool that will be given to housing developers to understand systematic differences between two or more of the 109 Bay Area jurisdictions, and/or to help Terner Center advocate for policy change for more unified building codes.
+
+## Details
+
+- Full problem description
+    
+    Building codes have evolved into a complex patchwork of requirements that vary across jurisdictions. These variations, often subtle but significant, create substantial challenges for builders and developers. Such differences multiply across hundreds of code specifications, creating inefficiencies that directly contribute to California's housing crisis by increasing costs and complexity.
+    The challenge is complicated by several factors:
+    - Building codes follow a template that updates every three years
+    - Jurisdictions adopt these updates on different schedules
+    - Local modifications create unique requirements in each jurisdiction
+    - Code differences exist across multiple categories (Electrical, Plumbing, Structural, etc.)
+    
+    Participants are encouraged to develop innovative approaches to:
+    - Systematically compare building codes across jurisdictions
+    - Track version differences and adoption patterns
+    - Identify areas of high variation between adjacent jurisdictions
+    - Quantify the impact of these variations on construction costs and timelines
+    
+
+## Resources
+
+- [Municode](https://library.municode.com/ca#S): Repository of building codes for various jurisdictions
+- State Code Depository: Template codes and standards
+- Local jurisdiction websites (e.g., Campbell, Cupertino, Sunnyvale, Mountain View)
+    - https://sfha.org/
+- [California Building Standards Commission](https://www.dgs.ca.gov/BSC) documents

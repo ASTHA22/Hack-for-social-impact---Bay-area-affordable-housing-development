@@ -1,0 +1,37 @@
+LookupError: ********************************************************************** Resource [93mpunkt_tab[0m not found. Please use the NLTK Downloader to obtain the resource: [31m>>> import nltk >>> nltk.download('punkt_tab') [0m For more information see: https://www.nltk.org/data.html Attempted to load [93mtokenizers/punkt_tab/english/[0m Searched in: - '/home/runner/nltk_data' - '/nix/store/f98g7xbckgqbkagdvpzc2r6lv3h1p9ki-python3-3.11.9/nltk_data' - '/nix/store/f98g7xbckgqbkagdvpzc2r6lv3h1p9ki-python3-3.11.9/share/nltk_data' - '/nix/store/f98g7xbckgqbkagdvpzc2r6lv3h1p9ki-python3-3.11.9/lib/nltk_data' - '/usr/share/nltk_data' - '/usr/local/share/nltk_data' - '/usr/lib/nltk_data' - '/usr/local/lib/nltk_data' **********************************************************************
+Traceback:
+File "/home/runner/BlueprintNavigator/.pythonlibs/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+             ^^^^^^
+File "/home/runner/BlueprintNavigator/.pythonlibs/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+File "/home/runner/BlueprintNavigator/main.py", line 43, in <module>
+    render_code_comparison(db, selected_jurisdictions)
+File "/home/runner/BlueprintNavigator/components/code_comparison.py", line 98, in render_code_comparison
+    analysis = analyze_code_differences(code1, code2)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+File "/home/runner/BlueprintNavigator/utils/nlp_processor.py", line 379, in analyze_code_differences
+    similarity = nlp_processor.calculate_similarity(code1, code2)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+File "/home/runner/BlueprintNavigator/utils/nlp_processor.py", line 118, in calculate_similarity
+    proc_text1 = self.preprocess_text(text1)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+File "/home/runner/BlueprintNavigator/utils/nlp_processor.py", line 108, in preprocess_text
+    tokens = word_tokenize(text.lower())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+File "/home/runner/BlueprintNavigator/.pythonlibs/lib/python3.11/site-packages/nltk/tokenize/__init__.py", line 142, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+File "/home/runner/BlueprintNavigator/.pythonlibs/lib/python3.11/site-packages/nltk/tokenize/__init__.py", line 119, in sent_tokenize
+    tokenizer = _get_punkt_tokenizer(language)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+File "/home/runner/BlueprintNavigator/.pythonlibs/lib/python3.11/site-packages/nltk/tokenize/__init__.py", line 105, in _get_punkt_tokenizer
+    return PunktTokenizer(language)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+File "/home/runner/BlueprintNavigator/.pythonlibs/lib/python3.11/site-packages/nltk/tokenize/punkt.py", line 1744, in __init__
+    self.load_lang(lang)
+File "/home/runner/BlueprintNavigator/.pythonlibs/lib/python3.11/site-packages/nltk/tokenize/punkt.py", line 1749, in load_lang
+    lang_dir = find(f"tokenizers/punkt_tab/{lang}/")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+File "/home/runner/BlueprintNavigator/.pythonlibs/lib/python3.11/site-packages/nltk/data.py", line 579, in find
+    raise LookupError(resource_not_found)
