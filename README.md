@@ -1,3 +1,5 @@
+https://docs.google.com/presentation/d/1vIOdMeQ9eBO8Ug01MeOJVhgDTXRaEUcO5APH_5CMQo0/edit#slide=id.p
+
 Hack for Social Impact - Bay Area Affordable Housing Development 🏙️🏡
 
 **Fetch Compare Build**
