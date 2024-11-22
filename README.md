@@ -2,7 +2,7 @@
 
 **Ppt: https://docs.google.com/presentation/d/1vIOdMeQ9eBO8Ug01MeOJVhgDTXRaEUcO5APH_5CMQo0/edit#slide=id.p**
 
-**𝗧𝗼𝗽 𝟯 𝗶𝗻 𝘁𝗵𝗲 𝗧𝗲𝗿𝗻𝗲𝗿 𝗜𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗲 𝗳𝗼𝗿 𝗛𝗼𝘂𝘀𝗶𝗻𝗴 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻'𝘀 𝗛𝗼𝘂𝘀𝗶𝗻𝗴 𝗔𝗳𝗳𝗼𝗿𝗱𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲🏆 - Hack for Social Impact 🏙️🏡 -**
+**𝗧𝗼𝗽 𝟯 𝗶𝗻 𝘁𝗵𝗲 𝗧𝗲𝗿𝗻𝗲𝗿 𝗜𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗲 𝗳𝗼𝗿 𝗛𝗼𝘂𝘀𝗶𝗻𝗴 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻'𝘀 𝗛𝗼𝘂𝘀𝗶𝗻𝗴 𝗔𝗳𝗳𝗼𝗿𝗱𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲🏆 - Hack for Social Impact 🏙️🏡**
 
 **Fetch Compare Build**
 
