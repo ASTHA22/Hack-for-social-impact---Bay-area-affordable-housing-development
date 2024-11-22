@@ -1,4 +1,4 @@
-**Presentation video: https://drive.google.com/file/d/1peNFFEwG5lKGSwNTjnkX-ML8sMLPpIEc/view**
+**Demo: https://drive.google.com/file/d/1peNFFEwG5lKGSwNTjnkX-ML8sMLPpIEc/view**
 
 **Ppt: https://docs.google.com/presentation/d/1vIOdMeQ9eBO8Ug01MeOJVhgDTXRaEUcO5APH_5CMQo0/edit#slide=id.p**
 
